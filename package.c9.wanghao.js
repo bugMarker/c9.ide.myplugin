@@ -1,5 +1,5 @@
-define("plugins/c9.ide.awanghao/package.c9.ide.awanghao", [], {
-    "name": "c9.ide.awanghao1",
+define("plugins/c9.wanghao/package.c9.wanghao", [], {
+    "name": "c9.wanghao",
     "description": "wanghao",
     "version": "0.0.1",
     "author": "",
